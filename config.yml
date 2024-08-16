@@ -1,0 +1,9 @@
+noise:
+  time_period: 4
+  plot: True
+
+level_shift:
+  plot: True
+
+variance_shift:
+  plot: True
